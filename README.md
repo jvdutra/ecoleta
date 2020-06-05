@@ -1,3 +1,5 @@
+![Ecoleta](https://i.imgur.com/IQgeItm.png)
+
 # Ecoleta
 Projeto criado durante a Next Level Week #01 da Rocketseat
 
